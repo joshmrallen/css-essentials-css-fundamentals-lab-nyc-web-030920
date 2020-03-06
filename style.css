@@ -39,7 +39,7 @@ figcaption {
 
 div {
   float: left;
-  margin: 0 5%;
+  margin: auto;
   padding: 0 10px;
   text-align: center;
 }
