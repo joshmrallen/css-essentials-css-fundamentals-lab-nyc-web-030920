@@ -5,6 +5,10 @@ body {
 
 }
 
+header {
+  text-align: center;
+}
+
 a {
   padding: 0 10px;
   background-color: RGB(131,241,250);
