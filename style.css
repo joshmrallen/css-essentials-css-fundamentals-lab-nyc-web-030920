@@ -34,7 +34,7 @@ figcaption {
 }
 
 #details {
-  
+  background-color: rgb(241,220,190);
 }
 
 div {
@@ -42,5 +42,5 @@ div {
   margin: 0 6% 50px;
   padding: 0 10px;
   text-align: center;
-  background-color: rgb(241,220,190);
+  
 }
